@@ -3,7 +3,7 @@
 scala-csv是一个由Scala编写的读写CSV库
 
 
-### 读取CSV字符串###
+### 读取CSV字符串 ###
 
 ```scala
 scala> case class Student(id: Int, name: String)
